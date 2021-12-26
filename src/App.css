@@ -11,7 +11,7 @@
   margin: auto;
   font-size: 1.2em;
   color: rgb(1, 124, 93);
-  padding-bottom: 5%;
+  padding-bottom: 80px;
 }
 
 #tab thead{
@@ -33,9 +33,11 @@
   padding-top: 1%;
   padding-bottom: 1%;
   width: 40%;
+  min-width: 240px;
 }
 
 #bottom{
+  /* padding-bottom: 5%; */
   width: 100%;
   /* height: 60px; */
   background-color: rgb(112, 15, 20);

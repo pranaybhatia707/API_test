@@ -80,7 +80,6 @@ function App() {
       <Toots />
       <div id="bottom">
         <h5> Developed by - <a href = "mailto: pranaybhatia707@gmail.com">Pranay</a></h5> 
-        
       </div>
     </div>
   );
